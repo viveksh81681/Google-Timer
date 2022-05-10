@@ -1,0 +1,11 @@
+.showtimer{
+    font-size: 40px;
+    line-height: 40px;
+    color: brown;
+}
+.showtimerdiv{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 300px;
+    margin: auto;
+    height: 300px;
+}
